@@ -5,4 +5,4 @@ git config --global user.name "sukhpreet singh"
 
 git init > to include our project into git 
 git add [filename] | or -A   >> to add these files into staging area
-
+git commit -m " add something here" >> to commit the changes..
